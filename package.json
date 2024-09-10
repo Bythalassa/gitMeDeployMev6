@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Bythalassa/github.io/gitMeDeployMev6",
   "name": "gitmedeploymev6",
   "private": true,
   "version": "0.0.0",
@@ -15,6 +16,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "install": "^0.13.0",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1"
