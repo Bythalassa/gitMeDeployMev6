@@ -1,6 +1,11 @@
 # fixes
 
 1. fix: npm run deploy oder watch another video
+   Error: Failed to get remote.origin.url (task must either be run in a git repository with a configured origin remote or must be configured with the "repo" option).
+   at E:\VS CODE\TESTING\gitMeDeployMev6\node_modules\gh-pages\lib\git.js:214:13
+   at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+   PS E:\VS CODE\TESTING\gitMeDeployMev6>
+
 2.
 
 # moves
@@ -57,3 +62,4 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 });
+```
